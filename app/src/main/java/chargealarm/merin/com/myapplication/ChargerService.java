@@ -20,7 +20,7 @@ import java.io.IOException;
 
 public class ChargerService extends Service{
 
-    //  m
+    //  merin
     //Intent batteryStatus;
     public MediaPlayer myMedia;
 
